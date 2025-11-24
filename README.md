@@ -1,4 +1,4 @@
-# Rice-leaf-disease-detection-using-deep-learning
+# Rice-leaf-disease-detection
 ## 📖 Project Description
 
 Rice is one of the most important staple crops worldwide, but its production is often threatened by various leaf diseases such as Bacterial Blight, Brown Spot, and Leaf Smut. Early detection of these diseases is crucial to prevent crop loss and ensure food security.The Rice Leaf Disease Detection System is a deep learning-based project that automates the process of identifying rice plant diseases from leaf images. Using Convolutional Neural Networks (CNN) and transfer learning models like MobileNet and ResNet, the system can accurately classify rice leaves into healthy or diseased categories.
