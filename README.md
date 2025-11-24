@@ -1,7 +1,7 @@
 # Rice-leaf-disease-detection
 ## 📖 Project Description
 
-Rice is one of the most important staple crops worldwide, but its production is often threatened by various leaf diseases such as Bacterial Blight, Brown Spot, and Leaf Smut. Early detection of these diseases is crucial to prevent crop loss and ensure food security.The Rice Leaf Disease Detection System is a deep learning-based project that automates the process of identifying rice plant diseases from leaf images. Using Convolutional Neural Networks (CNN) and transfer learning models like MobileNet and ResNet, the system can accurately classify rice leaves into healthy or diseased categories.
+Rice is one of the most important staple crops worldwide, but its production is often threatened by various leaf diseases such as Bacterial Blight, Brown Spot, and Leaf Smut. Early detection of these diseases is crucial to prevent crop loss and ensure food security.The Rice Leaf Disease Detection System is a deep learning-based project that automates the process of identifying rice plant diseases from leaf images. Using transfer learning models, the system can accurately classify rice leaves into healthy or diseased categories.
 
 The project involves image preprocessing (resizing, normalization, and augmentation) to improve model performance and generalization. The trained model can be deployed as a web or mobile application, allowing farmers to capture images of rice leaves and instantly receive diagnostic results.
 By providing an affordable, scalable, and reliable solution, this system helps farmers take timely action, improve yield, and support sustainable agricultural practices.
@@ -22,7 +22,7 @@ There is a clear need for an automated, accurate, and accessible system that can
 
 ✔️ Develop an automated system to detect and classify rice leaf diseases using deep learning.
 ✔️ Implement **image preprocessing techniques** (resizing, normalization, augmentation) to improve model accuracy and robustness.
-✔️ Train and evaluate a **Convolutional Neural Network (CNN)** or transfer learning models (e.g., MobileNet, ResNet) for multi-class classification.
+✔️ Train and evaluate a **Convolutional Neural Network (CNN)** or transfer learning models for multi-class classification.
 ✔️ Create a user-friendly interface (web/mobile) that allows farmers to upload leaf images for instant disease diagnosis.
 ✔️ Reduce reliance on manual disease detection and minimize errors caused by human observation.
 ✔️ Provide a cost-effective and scalable solution suitable for small and mid-scale farmers.
@@ -35,8 +35,8 @@ There is a clear need for an automated, accurate, and accessible system that can
 * Computer Vision Library: OpenCV
 * Data Handling & Analysis: NumPy, Pandas
 * Visualization: Matplotlib, Seaborn
-* Modeling Techniques: Convolutional Neural Networks (CNN), Transfer Learning (MobileNet, ResNet)
-* Development Tools: Jupyter Notebook / VS Code
+* Modeling Techniques: Convolutional Neural Networks (CNN), Transfer Learning 
+* Development Tools: Google Colab / VS Code
 * Dataset Source: Rice Leaf Disease Dataset (Kaggle)
 
 ## 🔮 Future Enhancements
